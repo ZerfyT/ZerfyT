@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **ZerfyT/ZerfyT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![wakatime](https://wakatime.com/badge/user/018cf33d-e267-4c1d-aecc-69ade927068d.svg)](https://wakatime.com/@018cf33d-e267-4c1d-aecc-69ade927068d)
+# My Stats:
+
+<div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:4px;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZerfyT&theme=aura&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&show=prs_merged_percentage)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZerfyT&theme=aura&hide_border=true)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZerfyT&theme=aura&layout=compact&hide_border=true)
+
+![GitHub Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZerfyT&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
