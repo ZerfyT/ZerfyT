@@ -1,58 +1,62 @@
 # 👩‍💻 ZerfyT
 
-**Full-Stack Software Engineer** *Architecting scalable web systems with a modder's precision.*
+**Full-Stack Software Engineer**  
+*Architecting scalable web systems with a modder's precision.*
 
 ---
 
 ### 🛠️ Tech & Focus
-- **Frontend** | React • Next.js • TypeScript • Livewire • Tailwind
-- **Backend** | PHP • Laravel • Node.js • PostgreSQL • Redis
-- **Interests** | System Architecture • Performance Optimization • Game Scripting
-
-<br/>
+- **Frontend:** React • Next.js • TypeScript • Livewire • Tailwind CSS
+- **Backend:** PHP • Laravel • Node.js • PostgreSQL • Redis
+- **Focus Areas:** System Architecture • Performance Optimization • Game Scripting
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="Laravel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="35" alt="livewire logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="35" alt="Livewire" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
 </div>
-
-### 💡 Inspiration & Tips
-- **Iterate or Die:** Don't wait for perfection. Build, break, and refactor.
-- **Modder’s Mindset:** Treat every codebase like a puzzle; there is always a way to optimize the logic.
-- **The Core Rule:** Frameworks change, but data structures and clean logic are forever.
-
-### 🔭 Currently
-- Building scalable web systems with a focus on maintainable architecture.
-- Bridging the gap between low-level logic and high-level user experiences.
 
 ---
 
-### 🔥 My Stats 
+### 💡 Engineering Mindset
+- **Iterate or Die:** Don't wait for perfection—build, break, measure, and refactor.
+- **Modder’s Mindset:** Treat every codebase like a system to optimize; there is always cleaner logic to uncover.
+- **The Core Rule:** Frameworks come and go, but data structures, boundaries, and fundamentals endure.
+
+---
+
+### 🔭 Currently
+- Architecting scalable web platforms with a focus on clean boundaries and maintainability.
+- Bridging low-level systems thinking with responsive, high-craft user interfaces.
+
+---
+
+### 🔥 My Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZerfyT&theme=aura&hide_border=true&border_radius=5" alt="Streak Graph" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZerfyT&theme=aura&layout=compact&hide_border=true&border_radius=5" alt="Wakatime Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerfyT&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=5&order=3" height="220" alt="Languages Stats" />
+| | |
+| :---: | :---: |
+| [![GitHub Streak](https://github-user-status-generator.vercel.app/api/streak?username=zerfyt&theme=tokyonight&size=large&animation=true)](https://github-user-status-generator.vercel.app) | [![GitHub Stats](https://github-user-status-generator.vercel.app/api/profile-stats?username=zerfyt&theme=tokyonight&size=large&animation=true)](https://github-user-status-generator.vercel.app) |
+| [![Top Languages](https://github-user-status-generator.vercel.app/api/languages?username=zerfyt&theme=tokyonight&size=large&animation=true)](https://github-user-status-generator.vercel.app) | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZerfyT&theme=tokyonight&layout=compact&hide_border=true&border_radius=5" alt="WakaTime Stats" /> |
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ZerfyT&theme=aura&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&show=prs_merged_percentage&card_width=495&border_radius=5&order=3" height="220" alt="Stats Graph" />
 </div>
 
 ---
 
 ### ☕ Support My Work
-If you find my tools or mods helpful, consider supporting my late-night caffeine requirements:
 
-<a href="https://www.buymeacoffee.com/nipu404">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
-</a>
+<div align="center">
+  <p>If my tools, experiments, or mods save you time or spark ideas, consider fueling the next build:</p>
+  <a href="https://www.buymeacoffee.com/nipu404">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" alt="Buy Me A Coffee" />
+  </a>
+</div>
