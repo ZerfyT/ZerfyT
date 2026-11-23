@@ -46,7 +46,7 @@
 | | |
 | :---: | :---: |
 | [![GitHub Streak](https://github-user-status-generator.vercel.app/api/streak?username=zerfyt&theme=tokyonight&size=large&animation=true)](https://github-user-status-generator.vercel.app) | [![GitHub Stats](https://github-user-status-generator.vercel.app/api/profile-stats?username=zerfyt&theme=tokyonight&size=large&animation=true)](https://github-user-status-generator.vercel.app) |
-| [![Top Languages](https://github-user-status-generator.vercel.app/api/languages?username=zerfyt&theme=tokyonight&size=large&animation=true)](https://github-user-status-generator.vercel.app) | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZerfyT&theme=tokyonight&layout=compact&hide_border=true&border_radius=5" alt="WakaTime Stats" /> |
+| [![Top Languages](https://github-user-status-generator.vercel.app/api/languages?username=zerfyt&theme=tokyonight&size=large&animation=true)](https://github-user-status-generator.vercel.app) | [![WakaTime Stats](https://github-user-status-generator.vercel.app/api/wakatime?username=zerfyt&theme=tokyonight&size=large&animation=true)](https://github-user-status-generator.vercel.app) |
 
 </div>
 
